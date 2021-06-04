@@ -20,6 +20,8 @@ The website provides for the designer a control panel for managing their own pro
 ## Customer
 This website also provides for the customer:
   - Updating the personal info.
+  - Searching for brands or products.
+  - Filtring the products based on type or gender.
   - A shopping cart.
   - Ability to rate the product after purchasing.
 
